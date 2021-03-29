@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**drewamorbordelon/drewamorbordelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## I am Drew Bordelon and currently I'm looking for Data Science roles!
 # Data Science and research enthusiast.
@@ -20,4 +18,3 @@ https://drewamorbordelon.github.io/
 - Twitter Handle: @DrewBordelon
 - ⚡ Fun facts: I built a dynamic rescaled range inspired by dam building.  
 -                Kiteboarding and white water kayaking are my life hack.
--->
