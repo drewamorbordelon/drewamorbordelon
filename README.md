@@ -17,6 +17,6 @@ https://drewamorbordelon.github.io/
 - [Email] <bordelon.drew@gmail.com>
 - [LinkedIn]<https://www.linkedin.com/in/drew-bordelon-62ba82204/>
 - Twitter Handle: @DrewBordelon
-- 
-- ⚡ Fun facts: I built a dynamic rescaled range inspired by dam building.  
--                
+
+- ⚡ Fun fact: I built a dynamic rescaled range inspired by dam building.  
+             
