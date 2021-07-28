@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I am Drew Bordelon and currently I'm looking for Data Science roles and projects to collaborate on!
+## I am Drew Bordelon and currently I'm looking for Data Science & Machine Learning Engineer roles and projects to collaborate on!
 Data Science and research enthusiast.
 Curious guy with a soft spot for feature engineering and Finance.
 
