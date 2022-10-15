@@ -5,8 +5,8 @@
 Data Science and research enthusiast.
 Curious guy with a soft spot for feature engineering and Finance.
 
-- 🔭 I’m currently working on preprocessing children's handwriting (grades 3-5) to build an OCR model utilizing Tesseract
-- 🌱 I’m currently learning modeling with Bayesian Statistics using PYMC3
+- 🔭 Currently, I'm building a financial application called TenBulls. It's benfit for users is that it helps market participants more accurately time markets and limit the downside with their trades and investments.
+- 🌱 Designing and building the front-end of TenBulls application and deploying it to AWS.
 - 👯 I’m looking to collaborate on forecasting economic factors (GDP and Inflation in the United States)
 - 💬 Ask me about engineering features using raw economic data
 
